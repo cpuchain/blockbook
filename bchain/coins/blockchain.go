@@ -123,6 +123,7 @@ func init() {
 	BlockChainFactories["Ritocoin"] = ritocoin.NewRitocoinRPC
 	BlockChainFactories["Divi"] = divi.NewDiviRPC
 	BlockChainFactories["CPUchain"] = cpuchain.NewCPUchainRPC
+	BlockChainFactories["CPUchain Testnet"] = cpuchain.NewCPUchainRPC
 	BlockChainFactories["Unobtanium"] = unobtanium.NewUnobtaniumRPC
 	BlockChainFactories["DeepOnion"] = deeponion.NewDeepOnionRPC
 	BlockChainFactories["SnowGem"] = snowgem.NewSnowGemRPC

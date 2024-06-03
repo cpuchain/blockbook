@@ -56,6 +56,11 @@
                 "EstimateSmartFee", "EstimateFee"],
         "sync": ["ConnectBlocksParallel", "ConnectBlocks"]
     },
+    "cpuchain_testnet": {
+        "rpc": ["GetBlock", "GetBlockHash", "GetTransaction", "GetTransactionForMempool", "MempoolSync",
+                "EstimateSmartFee", "EstimateFee"],
+        "sync": ["ConnectBlocksParallel", "ConnectBlocks"]
+    },
     "dash": {
         "rpc": ["GetBlock", "GetBlockHash", "GetTransaction", "GetTransactionForMempool", "MempoolSync",
                 "EstimateSmartFee", "GetBestBlockHash", "GetBestBlockHeight", "GetBlockHeader"],
