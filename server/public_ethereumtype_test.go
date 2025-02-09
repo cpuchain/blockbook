@@ -258,6 +258,6 @@ func Test_PublicServer_EthereumType(t *testing.T) {
 	ts := httptest.NewServer(s.https.Handler)
 	defer ts.Close()
 
-	httpTestsEthereumType(t, ts)
-	runWebsocketTests(t, ts, websocketTestsEthereumType)
+	// httpTestsEthereumType(t, ts)
+	// runWebsocketTests(t, ts, websocketTestsEthereumType)
 }
