@@ -44,7 +44,7 @@
 | Polygon Archive                  | 9172             | 9072               | 8072        | 38372 p2p, 8172 http                                |
 | Qtum                             | 9188             | 9088               | 8088        | 38388                                               |
 | Divi Project                     | 9189             | 9089               | 8089        | 38389                                               |
-| CPUchain                         | 9190             | 9090               | 8090        | 38390                                               |
+| CPUchain Classic                 | 9190             | 9090               | 8090        | 38390                                               |
 | DeepOnion                        | 9191             | 9091               | 8091        | 38391                                               |
 | Unobtanium                       | 9192             | 9092               | 65535       | 38392                                               |
 | Omotenashicoin                   | 9194             | 9094               | 8094        | 38394                                               |
