@@ -1,4 +1,4 @@
-package cpuchain
+package cpuchain_classic
 
 import (
 	"encoding/json"
